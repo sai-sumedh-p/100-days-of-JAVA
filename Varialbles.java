@@ -13,10 +13,11 @@ boolean - stores values with two states: true or false
         String name="sumedh";
         int age = 20;
         double CGPA= 9.14 ;
-        
+        String details =name+ age+ CGPA;
 
         System.out.println(name);
         System.out.println(age);
         System.out.println(CGPA);
+          System.out.println(details);
     }
 }
