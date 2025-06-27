@@ -11,8 +11,8 @@ double -> float -> long -> int -> char -> short -> byte */
 public class Typecasting {
     public static void main(String[] args){
         //widening casting is done automatically
-        int num=69;
-        float num1=num;
+        int number=69;
+        float num1=number;
         System.out.println(num1); 
 
         //narrowing casting is done manually 
