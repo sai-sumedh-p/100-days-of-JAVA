@@ -17,7 +17,7 @@ public class Typecasting {
 
         //narrowing casting is done manually 
         float CGPA=9.14f;
-        int cgpa=(int)CGPA;
-        System.out.println(cgpa);
+        int Cgpa=(int)CGPA;
+        System.out.println(Cgpa);
     }
 }
