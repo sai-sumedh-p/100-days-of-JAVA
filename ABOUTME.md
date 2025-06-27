@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Sumedh Pedarla</h1>
+<h1 align="center">Hi 👋, I am Sai Sumedh Pedarla</h1>
 <h3 align="center">"B.Tech Automation & Robotics | Blending Algorithms with Actuators — Engineering Tomorrow with Code, Circuits & Vision"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-sumedh-p&label=Profile%20views&color=0e75b6&style=flat" alt="sai-sumedh-p" /> </p>
