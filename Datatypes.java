@@ -10,10 +10,15 @@
 
 public class Datatypes {
     public static void main(String[] args){
+        @SuppressWarnings("unused")
         int myNum = 5;               // Integer (whole number)
+@SuppressWarnings("unused")
 float myFloatNum = 5.99f;    // Floating point number
+@SuppressWarnings("unused")
 char myLetter = 'D';         // Character
+@SuppressWarnings("unused")
 boolean myBool = true;       // Boolean
+@SuppressWarnings("unused")
 String myText = "Hello";     // String
     }
 }
