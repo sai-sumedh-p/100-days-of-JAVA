@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class UserInput {
+public class CgpaCalculator {
 
     public static void main(String[] args){
             System.out.println("enter your name");
