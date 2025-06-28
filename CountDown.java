@@ -5,6 +5,6 @@ public class CountDown {
             System.out.println(countdown);
             countdown--;
         }
-        System.out.println("happy new year");
+        System.out.println("Happy New Year");
     }
 }
