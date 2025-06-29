@@ -12,7 +12,7 @@ public class MarksStoring {
             }
 
             scanner.close();
-            System.out.println("successfully stored the marks");
+            System.out.println("successfully stored all the marks");
             for(int i=0;i<num;i++){
                 System.out.println(marks[i]);
             }
