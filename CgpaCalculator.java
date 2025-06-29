@@ -18,7 +18,7 @@ public class CgpaCalculator {
             int sem =input.nextInt();
 
             double[] sgpas = new double[sem];
-            double total = 0;
+            double total = 0.0;
 
             for (int i = 0; i < sem-1; i++) {
                     System.out.print("Enter SGPA for Semester " + (i + 1) + ": ");
