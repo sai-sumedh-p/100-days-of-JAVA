@@ -15,7 +15,7 @@ public class Strings{
             System.out.println("The length of your name is: "+name.length()+" characters");
             System.out.println("Your name is: " + name.toUpperCase() ); //makes the name to upper case letters
             System.out.println("Your name is: " + name.toLowerCase() ); //makes the name to lower case letters
-            System.out.println("what do you want to find in your name");
+            System.out.println("what do you want to find in your Name");
             String txt=scanner.nextLine();
             System.out.println(txt+" starts at "+name.indexOf(txt)+" character");
 
