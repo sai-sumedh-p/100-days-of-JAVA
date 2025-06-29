@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Areacalculator {
-    public static void main(String[] args){
+    static void main(String[] args){
         double length =0;
         double breadth=0;
         double area=0;
